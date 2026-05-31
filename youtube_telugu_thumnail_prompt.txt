@@ -7,6 +7,7 @@ Requirements:
 - Clean, modern, professional
 - Strong visual hierarchy
 - High contrast
+- Use contrast only where needed to improve readability and focus.
 - One clear focal point
 - Minimal clutter
 - Large readable text
@@ -28,6 +29,21 @@ Language:
 - Avoid pure Telugu typography blocks
 - Choose whichever is most natural and clickable
 - Do not force Telugu translations for common creator terms such as YouTube, Thumbnail, Shorts, CTR, Canva, AI, ChatGPT.. etc
+
+Color & Mood Strategy:
+Match the emotional tone of the topic.
+
+If topic is:
+- Calm → use soft blues, whites, light gradients
+- Premium → use black, charcoal, gold accents
+- Productivity → clean blue, white, teal
+- Tech/AI → modern cyan, navy, subtle purple
+- Success/wealth → premium dark tones, elegant contrast
+- Lifestyle → warm natural colors
+- Travel → vibrant but realistic colors
+- Health → fresh green, white, clean lighting
+- Motivation → energetic contrast
+- Warning/mistake → stronger reds/oranges only when justified
 
 Image Handling:
 - If an image is attached, automatically determine whether it is a person/avatar image or a context image
@@ -68,5 +84,6 @@ Generate a complete YouTube-ready thumbnail.
 Video Title:
 [TITLE]
 
-(Optional) Video Description:
+(optional) Video Description:
 [DESCRIPTION]
+
